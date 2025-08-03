@@ -1,0 +1,1945 @@
+{
+  "group-1": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-67876713",
+      "terminal": "3000-firebase-taskistosgit-1754158741580.cluster-m7dwy2bmizezqukxkuxd55k5ka.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-94789532",
+      "terminal": "3000-firebase-taskistosgit-1753983924930.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-78034719",
+      "terminal": "3000-firebase-taskistosgit-1753984022670.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+    },
+	    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+	    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+	    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+	    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+	    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+	    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+	    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+	    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+	    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+	    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    }
+  ],
+  "group-2": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29415432",
+      "terminal": "3000-firebase-taskistosgit-1749867578249.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12701926",
+      "terminal": "3000-firebase-taskistosgit-1749867463760.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10493222",
+      "terminal": "3000-firebase-taskistosgit-1749867569393.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    }
+  ],
+  "group-3": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-65672026",
+      "terminal": "3000-firebase-taskistosgit-1749869621404.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-87360393",
+      "terminal": "3000-firebase-taskistosgit-1749869626536.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-94670153",
+      "terminal": "3000-firebase-taskistosgit-1749869575582.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    }
+  ],
+  "group-4": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-01302944",
+      "terminal": "3000-firebase-taskistosgit-1749870138602.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-80788557",
+      "terminal": "3000-firebase-taskistosgit-1749870152377.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-59718378",
+      "terminal": "3000-firebase-taskistosgit-1749870335117.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    }
+  ],
+  "group-5": [
+  
+    {
+    "url": "https://studio.firebase.google.com/agustinaherawati-43838027",
+    "terminal": "3000-firebase-agustinaherawati-1747201232431.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/agustinaherawati2-98487650",
+    "terminal": "3000-firebase-agustinaherawati2-1747205394623.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/agustinaherawati3-67848360",
+    "terminal": "3000-firebase-agustinaherawati3-1747212674917.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/agustinaherawati4-77153390",
+    "terminal": "3000-firebase-agustinaherawati4-1747220518448.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/agustinaherawati5-61661583",
+    "terminal": "3000-firebase-agustinaherawati5-1747222477809.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/agustinaherawati6-27069209",
+    "terminal": "3000-firebase-agustinaherawati6-1747229289203.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/agustinaherawat7-85271500",
+    "terminal": "3000-firebase-agustinaherawat7-1747234603369.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/agustinaherawat8-06420637",
+    "terminal": "3000-firebase-agustinaherawat8-1747234625785.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  }
+  ],
+  "group-6": [
+  
+    {
+    "url": "https://studio.firebase.google.com/ajas1-57868556",
+    "terminal": "3000-firebase-ajas1-1747201222420.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ajas2-39233289",
+    "terminal": "3000-firebase-ajas2-1747205345735.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ajas3-10685694",
+    "terminal": "3000-firebase-ajas3-1747212673427.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ajas4-29728909",
+    "terminal": "3000-firebase-ajas4-1747220457408.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ajas5-10292765",
+    "terminal": "3000-firebase-ajas5-1747222422124.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ajas6-20210744",
+    "terminal": "3000-firebase-ajas6-1747229215825.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ajas7-20231345",
+    "terminal": "3000-firebase-ajas7-1747241491831.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ajas8-15228307",
+    "terminal": "3000-firebase-ajas8-1747241499906.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+  }
+  
+  
+  ],
+  "group-7": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-89393144",
+      "terminal": "3000-firebase-taskistosgit-1749870746037.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-79648307",
+      "terminal": "3000-firebase-taskistosgit-1749870725784.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-72447662",
+      "terminal": "3000-firebase-taskistosgit-1749870736331.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+    }
+  ],
+  "group-8": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-19516874",
+      "terminal": "3000-firebase-taskistosgit-1749871061837.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-71345943",
+      "terminal": "3000-firebase-taskistosgit-1749871042598.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-45046144",
+      "terminal": "3000-firebase-taskistosgit-1749871051977.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+    }
+  ],
+
+  "group-9": [
+  
+    {
+    "url": "https://studio.firebase.google.com/amasasih1-44708885",
+    "terminal": "3000-firebase-amasasih1-1747201182168.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/amasasih2-94624689",
+    "terminal": "3000-firebase-amasasih2-1747205176878.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/amasasih3-24050165",
+    "terminal": "3000-firebase-amasasih3-1747209170239.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/amasasih4-23707577",
+    "terminal": "3000-firebase-amasasih4-1747220285457.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/amasasih5-39715834",
+    "terminal": "3000-firebase-amasasih5-1747222250662.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/amasasih6-43535840",
+    "terminal": "3000-firebase-amasasih6-1747228977321.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/nodejsgitsdsd-56744327",
+    "terminal": "3000-firebase-nodejsgitsdsd-1747242930169.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/sdsdsda4-34943142",
+    "terminal": "3000-firebase-sdsdsda4-1747242934587.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  }
+  
+  
+  ],
+  "group-10": [
+    {
+    "url": "https://studio.firebase.google.com/ameliafranda1-48293148",
+    "terminal": "3000-firebase-ameliafranda1-1747201173470.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ameliaafrandaa2-95554704",
+    "terminal": "3000-firebase-ameliaafrandaa2-1747205126901.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ameliaafrandaa3-13265000",
+    "terminal": "3000-firebase-ameliaafrandaa3-1747209119039.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ameliaafrandaa4-24657865",
+    "terminal": "3000-firebase-ameliaafrandaa4-1747220228676.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ameliaafrandaa5-56615118",
+    "terminal": "3000-firebase-ameliaafrandaa5-1747222194703.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ameliaafrandaa6-52373782",
+    "terminal": "3000-firebase-ameliaafrandaa6-1747228907420.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/sfsf-88390593",
+    "terminal": "3000-firebase-sfsf-1747243268255.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/sf3qfg-02829800",
+    "terminal": "3000-firebase-sf3qfg-1747243273216.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  ],
+  "group-11": [
+  
+    {
+    "url": "https://studio.firebase.google.com/andibagu1-89423239",
+    "terminal": "3000-firebase-andibagu1-1747201162242.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andibagu2-48897388",
+    "terminal": "3000-firebase-andibagu2-1747205058506.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andibagu3-43472104",
+    "terminal": "3000-firebase-andibagu3-1747209049919.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andibagu4-91039680",
+    "terminal": "3000-firebase-andibagu4-1747220169627.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andibagu5-34357026",
+    "terminal": "3000-firebase-andibagu5-1747222138508.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andibagu6-20878628",
+    "terminal": "3000-firebase-andibagu6-1747228837107.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/wfwf22-53092575",
+    "terminal": "3000-firebase-wfwf22-1747243603616.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/efefefef57557-92107407",
+    "terminal": "3000-firebase-efefefef57557-1747243610415.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  ],
+  "group-12": [
+    {
+    "url": "https://studio.firebase.google.com/andisunandi1-12640279",
+    "terminal": "3000-firebase-andisunandi1-1747201119179.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andisunandi2-89439724",
+    "terminal": "3000-firebase-andisunandi2-1747205010129.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andisunandi3-59525662",
+    "terminal": "3000-firebase-andisunandi3-1747209000015.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andisunandi4-43510976",
+    "terminal": "3000-firebase-andisunandi4-1747220112631.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andisunandi5-49986354",
+    "terminal": "3000-firebase-andisunandi5-1747222081348.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andisunandi6-99853152",
+    "terminal": "3000-firebase-andisunandi6-1747228765083.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/nodejsgitsssss-26961051",
+    "terminal": "3000-firebase-nodejsgitsssss-1747244071135.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/sdsd3tt-08849611",
+    "terminal": "3000-firebase-sdsd3tt-1747244076586.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  ],
+  "group-13": [
+  
+    {
+    "url": "https://studio.firebase.google.com/andradwiyan1-37936643",
+    "terminal": "3000-firebase-andradwiyan1-1747201105586.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andradwiyan2-48525694",
+    "terminal": "3000-firebase-andradwiyan2-1747204960717.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andradwiyan3-40485468",
+    "terminal": "3000-firebase-andradwiyan3-1747208945091.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andradwiyan4-27708836",
+    "terminal": "3000-firebase-andradwiyan4-1747220054061.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andradwiyan5-82297437",
+    "terminal": "3000-firebase-andradwiyan5-1747222024930.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/andradwiyan6-79811737",
+    "terminal": "3000-firebase-andradwiyan6-1747228694906.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/nodejssafasf-68492008",
+    "terminal": "3000-firebase-nodejssafasf-1747244456329.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/nodejsawdawdaw-68270577",
+    "terminal": "3000-firebase-nodejsawdawdaw-1747244460148.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  }
+  
+  
+  ],
+  "group-14": [
+  
+    {
+    "url": "https://studio.firebase.google.com/anggaratega1-44912366",
+    "terminal": "3000-firebase-anggaratega1-1747201085354.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/anggarategar2-42827217",
+    "terminal": "3000-firebase-anggarategar2-1747204911709.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/anggaratega3-63716675",
+    "terminal": "3000-firebase-anggaratega3-1747208894124.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/anggaratega4-86165922",
+    "terminal": "3000-firebase-anggaratega4-1747219996158.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/anggaratega5-22688148",
+    "terminal": "3000-firebase-anggaratega5-1747225435912.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/anggaratega6-97609033",
+    "terminal": "3000-firebase-anggaratega6-1747228619297.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/nodejsssfsf-97737617",
+    "terminal": "3000-firebase-nodejsssfsf-1747244766636.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/sfsf3rt3rt-40132218",
+    "terminal": "3000-firebase-sfsf3rt3rt-1747244770986.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  ],
+  "group-15": [
+  
+    {
+    "url": "https://studio.firebase.google.com/antonsunandar1-13723896",
+    "terminal": "3000-firebase-antonsunandar1-1747201066900.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/antonsunanda2-35512842",
+    "terminal": "3000-firebase-antonsunanda2-1747204865601.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/antonsunandar3-33296689",
+    "terminal": "3000-firebase-antonsunandar3-1747208825364.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/antonsunandar4-43523654",
+    "terminal": "3000-firebase-antonsunandar4-1747219938805.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/antonsunandar5-54986199",
+    "terminal": "3000-firebase-antonsunandar5-1747225374708.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/antonsunandar6-88148662",
+    "terminal": "3000-firebase-antonsunandar6-1747228549786.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/nodejsgitsfsf-64389456",
+    "terminal": "3000-firebase-nodejsgitsfsf-1747245201649.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/nodejssfsfsf-38299129",
+    "terminal": "3000-firebase-nodejssfsfsf-1747245205121.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  }
+  
+  
+  
+  ],
+  "group-16": [
+    {
+    "url": "https://studio.firebase.google.com/ardibakri1-38816149",
+    "terminal": "3000-firebase-ardibakri1-1747201038565.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ardibakri2-34631232",
+    "terminal": "3000-firebase-ardibakri2-1747204821952.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ardibakri3-49370415",
+    "terminal": "3000-firebase-ardibakri3-1747208776019.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ardibakri4-52639396",
+    "terminal": "3000-firebase-ardibakri4-1747219882073.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ardibakri5-44838115",
+    "terminal": "3000-firebase-ardibakri5-1747225318721.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ardibakri6-11592749",
+    "terminal": "3000-firebase-ardibakri6-1747228468869.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/nodejsgiteeeeeeeeeee-55957530",
+    "terminal": "3000-firebase-nodejsgiteeeeeeeeeee-1747245508207.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/nodejsgitfffffffffffffffffffffff-51998096",
+    "terminal": "3000-firebase-nodejsgitfffffffffffffffffffffff-1747245513845.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+  }
+  
+  
+  ],
+  "group-17": [
+  
+    {
+    "url": "https://studio.firebase.google.com/awan1-39953840",
+    "terminal": "3000-firebase-awan1-1747201027736.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/awan2-13615466",
+    "terminal": "3000-firebase-awan2-1747204777176.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/awan3-44848190",
+    "terminal": "3000-firebase-awan3-1747208726708.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/awan4-85670164",
+    "terminal": "3000-firebase-awan4-1747219826157.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/awan5-33770099",
+    "terminal": "3000-firebase-awan5-1747225260301.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/awan6-26827765",
+    "terminal": "3000-firebase-awan6-1747228385684.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ss-28220440",
+    "terminal": "3000-firebase-ss-1747247266225.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/sadat34-49663077",
+    "terminal": "3000-firebase-sadat34-1747247272430.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  ],
+  "group-18": [
+  
+    {
+    "url": "https://studio.firebase.google.com/ayufarah1-98744264",
+    "terminal": "3000-firebase-ayufarah1-1747201019144.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayufarah2-43123438",
+    "terminal": "3000-firebase-ayufarah2-1747204731963.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayufarah3-04428304",
+    "terminal": "3000-firebase-ayufarah3-1747208677293.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayufarah4-23255077",
+    "terminal": "3000-firebase-ayufarah4-1747219765276.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayufarah5-69611735",
+    "terminal": "3000-firebase-ayufarah5-1747225203674.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayufarah6-95303992",
+    "terminal": "3000-firebase-ayufarah6-1747228296378.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayufarah7-84669138",
+    "terminal": "3000-firebase-ayufarah7-1747232997846.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayufarah7-34002780",
+    "terminal": "3000-firebase-ayufarah7-1747247633102.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  ],
+  "group-19": [
+  
+  
+    {
+    "url": "https://studio.firebase.google.com/ayurahayu1-34651318",
+    "terminal": "3000-firebase-ayurahayu1-1747201001396.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayurahayu2-57189284",
+    "terminal": "3000-firebase-ayurahayu2-1747204677684.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayurahayu3-52130260",
+    "terminal": "3000-firebase-ayurahayu3-1747208628658.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayurahayu4-52498217",
+    "terminal": "3000-firebase-ayurahayu4-1747219705858.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayurahayu5-60493638",
+    "terminal": "3000-firebase-ayurahayu5-1747224463171.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayurahayu6-70970646",
+    "terminal": "3000-firebase-ayurahayu6-1747226667677.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayurahayu7-87790226",
+    "terminal": "3000-firebase-ayurahayu7-1747231780711.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ayurahayu8-80062352",
+    "terminal": "3000-firebase-ayurahayu8-1747247981325.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  ],
+  "group-20": [
+  
+   {
+    "url": "https://studio.firebase.google.com/babansar1-21916775",
+    "terminal": "3000-firebase-babansar1-1747200987812.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/babansarbani2-00024724",
+    "terminal": "3000-firebase-babansarbani2-1747204625403.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/babansarbani3-34555124",
+    "terminal": "3000-firebase-babansarbani3-1747208579008.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/babansarbani4-54943401",
+    "terminal": "3000-firebase-babansarbani4-1747219648885.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/babansarbani5-04694047",
+    "terminal": "3000-firebase-babansarbani5-1747225128010.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/babansarbani6-06053596",
+    "terminal": "3000-firebase-babansarbani6-1747228226301.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/babansar8-91164895",
+    "terminal": "3000-firebase-babansar8-1747249005225.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/babansar7-60048593",
+    "terminal": "3000-firebase-babansar7-1747232971045.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+  } 
+  
+  
+  
+  
+  
+  ],
+  "group-21": [
+  
+    {
+    "url": "https://studio.firebase.google.com/badruntok1-91116012",
+    "terminal": "3000-firebase-badruntok1-1747201574302.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/badruntok2-12876760",
+    "terminal": "3000-firebase-badruntok2-1747204579535.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/badruntok3-15835107",
+    "terminal": "3000-firebase-badruntok3-1747208527599.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/badruntok4-04745337",
+    "terminal": "3000-firebase-badruntok4-1747219590024.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/badruntok5-60526323",
+    "terminal": "3000-firebase-badruntok5-1747225071801.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/badruntok6-85348869",
+    "terminal": "3000-firebase-badruntok6-1747228121281.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/badruntok7-07073417",
+    "terminal": "3000-firebase-badruntok7-1747232943779.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/badruntok8-74636009",
+    "terminal": "3000-firebase-badruntok8-1747250059316.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  ],
+  "group-22": [
+  
+    {
+    "url": "https://studio.firebase.google.com/banggucoxx1-92088069",
+    "terminal": "3000-firebase-banggucoxx1-1747201562542.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/banggucoxx2-88247472",
+    "terminal": "3000-firebase-banggucoxx2-1747204534580.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/banggucoxx3-51251403",
+    "terminal": "3000-firebase-banggucoxx3-1747208478294.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/banggucoxx4-91479386",
+    "terminal": "3000-firebase-banggucoxx4-1747219533748.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/banggucoxx5-82369702",
+    "terminal": "3000-firebase-banggucoxx5-1747225014989.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/banggucoxx6-89627416",
+    "terminal": "3000-firebase-banggucoxx6-1747228051719.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/banggucoxx7-34213472",
+    "terminal": "3000-firebase-banggucoxx7-1747232917237.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/banggucoxx8-55418364",
+    "terminal": "3000-firebase-banggucoxx8-1747250391330.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  ],
+  "group-23": [
+  
+    {
+    "url": "https://studio.firebase.google.com/baruskalo1-96747864",
+    "terminal": "3000-firebase-baruskalo1-1747201554401.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/baruskalo2-28273783",
+    "terminal": "3000-firebase-baruskalo2-1747204492487.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/baruskalo3-40268449",
+    "terminal": "3000-firebase-baruskalo3-1747208432236.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/baruskalo4-42861210",
+    "terminal": "3000-firebase-baruskalo4-1747219477714.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/baruskalo5-92428719",
+    "terminal": "3000-firebase-baruskalo5-1747224958018.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/baruskalo6-06725996",
+    "terminal": "3000-firebase-baruskalo6-1747227979619.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/baruskalo7-21399097",
+    "terminal": "3000-firebase-baruskalo7-1747232891075.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/baruskalo8-34754297",
+    "terminal": "3000-firebase-baruskalo8-1747250738222.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  ],
+  "group-24": [
+  
+  
+  
+    {
+    "url": "https://studio.firebase.google.com/bellaregina1-11119059",
+    "terminal": "3000-firebase-bellaregina1-1747201546302.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/2-87903723",
+    "terminal": "3000-firebase-2-1748343526453.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/bellaregina3-71701440",
+    "terminal": "3000-firebase-bellaregina3-1747208377791.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/bellaregina4-15387898",
+    "terminal": "3000-firebase-bellaregina4-1747219401888.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/bellaregina5-28307000",
+    "terminal": "3000-firebase-bellaregina5-1747224900615.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/bellaregina6-56487927",
+    "terminal": "3000-firebase-bellaregina6-1747227910418.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/bellaregina7-35462084",
+    "terminal": "3000-firebase-bellaregina7-1747231886443.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/bellaregina8-90530714",
+    "terminal": "3000-firebase-bellaregina8-1747251147543.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  ],
+    "group-25": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-40609881",
+      "terminal": "3000-firebase-taskistosgit-1749871394318.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-87685886",
+      "terminal": "3000-firebase-taskistosgit-1749871375033.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-88261779",
+      "terminal": "3000-firebase-taskistosgit-1749871385083.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+    }
+  ],
+  "group-26": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-11914182",
+      "terminal": "3000-firebase-taskistosgit-1749871963258.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-35795693",
+      "terminal": "3000-firebase-taskistosgit-1749871943371.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-99276716",
+      "terminal": "3000-firebase-taskistosgit-1749871953589.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    }
+  ],
+  "group-27": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-82982678",
+      "terminal": "3000-firebase-taskistosgit-1749872384866.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-72962896",
+      "terminal": "3000-firebase-taskistosgit-1749872365032.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-29897696",
+      "terminal": "3000-firebase-taskistosgit-1749872375044.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+    }
+  ],
+  "group-28": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-34516426",
+      "terminal": "3000-firebase-taskistosgit-1749872709242.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-20196549",
+      "terminal": "3000-firebase-taskistosgit-1749872689331.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-59829179",
+      "terminal": "3000-firebase-taskistosgit-1749872699468.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+    }
+  ],
+  "group-29": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-40158213",
+      "terminal": "3000-firebase-taskistosgit-1750077620703.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-69902247",
+      "terminal": "3000-firebase-taskistosgit-1750077627881.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-30409297",
+      "terminal": "3000-firebase-taskistosgit-1750077630682.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+    }
+  ],
+  "group-30": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-28290648",
+      "terminal": "3000-firebase-taskistosgit-1750077839213.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-56074443",
+      "terminal": "3000-firebase-taskistosgit-1750077845958.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-75223331",
+      "terminal": "3000-firebase-taskistosgit-1750077848988.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    }
+  ],
+  "group-31": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-02428032",
+      "terminal": "3000-firebase-taskistosgit-1750078036518.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-51631803",
+      "terminal": "3000-firebase-taskistosgit-1750078041052.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgitssdsf-00696320",
+      "terminal": "3000-firebase-taskistosgitssdsf-1750078045541.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+    }
+  ],
+  "group-32": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-25130845",
+      "terminal": "3000-firebase-taskistosgit-1749874890038.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-46885551",
+      "terminal": "3000-firebase-taskistosgit-1749874870202.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-83162843",
+      "terminal": "3000-firebase-taskistosgit-1749874879953.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+    }
+  ],
+
+  "group-33": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-96555580",
+      "terminal": "3000-firebase-taskistosgit-1749697812497.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-93133546",
+      "terminal": "3000-firebase-taskistosgit-1749697823837.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-32079926",
+      "terminal": "3000-firebase-taskistosgit-1749697817972.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+    }
+  ],
+  "group-34": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-62396393",
+      "terminal": "3000-firebase-taskistosgit-1749698118775.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-49682952",
+      "terminal": "3000-firebase-taskistosgit-1749698124412.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-02809525",
+      "terminal": "3000-firebase-taskistosgit-1749698127958.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+    }
+  ],
+  "group-35": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-84521595",
+      "terminal": "3000-firebase-taskistosgit-1749698370061.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-84558329",
+      "terminal": "3000-firebase-taskistosgit-1749698376268.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-79279893",
+      "terminal": "3000-firebase-taskistosgit-1749698378753.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+    }
+  ],
+  "group-36": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-44057328",
+      "terminal": "3000-firebase-taskistosgit-1749698588392.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-47287893",
+      "terminal": "3000-firebase-taskistosgit-1749698594826.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-87378417",
+      "terminal": "3000-firebase-taskistosgit-1749698598664.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+    }
+  ],
+
+  "group-37": [
+    {
+    "url": "https://studio.firebase.google.com/dewisar4-12688529",
+    "terminal": "3000-firebase-dewisar4-1747218656797.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dewisar5-94029775",
+    "terminal": "3000-firebase-dewisar5-1747223706556.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dewisar6-26603259",
+    "terminal": "3000-firebase-dewisar6-1747225797608.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dewisari6-78920619",
+    "terminal": "3000-firebase-dewisari6-1747231468022.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dewisari8-86464197",
+    "terminal": "3000-firebase-dewisari8-1747280991320.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dewisar2-14696087",
+    "terminal": "3000-firebase-dewisar2-1747203548357.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dewisari1-17973001",
+    "terminal": "3000-firebase-dewisari1-1747201420045.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dewisar3-90214530",
+    "terminal": "3000-firebase-dewisar3-1747207736961.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  ],
+  "group-38": [
+    {
+    "url": "https://studio.firebase.google.com/dparsleybakery3-92998251",
+    "terminal": "3000-firebase-dparsleybakery3-1747207687608.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dparsleybakery4-39111634",
+    "terminal": "3000-firebase-dparsleybakery4-1747218600149.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dparsleybakery5-20167872",
+    "terminal": "3000-firebase-dparsleybakery5-1747223650454.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dparsleybakery6-43415445",
+    "terminal": "3000-firebase-dparsleybakery6-1747225728076.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dparsleybakery6-34620113",
+    "terminal": "3000-firebase-dparsleybakery6-1747231441384.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dparsleybakery8-70961625",
+    "terminal": "3000-firebase-dparsleybakery8-1747281283691.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dparsleybakery1-56269101",
+    "terminal": "3000-firebase-dparsleybakery1-1747201407989.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dparsleybakery2-61753187",
+    "terminal": "3000-firebase-dparsleybakery2-1747203429749.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  ],
+  "group-39": [
+  
+  
+    {
+    "url": "https://studio.firebase.google.com/dtina5-71334320",
+    "terminal": "3000-firebase-dtina5-1747223574147.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dtina6-86412316",
+    "terminal": "3000-firebase-dtina6-1747225652540.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dtina6-22578942",
+    "terminal": "3000-firebase-dtina6-1747231414815.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dtina8-35830008",
+    "terminal": "3000-firebase-dtina8-1747281754925.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dtina1-00038874",
+    "terminal": "3000-firebase-dtina1-1747201388770.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dtina2-55638038",
+    "terminal": "3000-firebase-dtina2-1747206110074.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dtina3-51925029",
+    "terminal": "3000-firebase-dtina3-1747207638348.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dtina4-40759020",
+    "terminal": "3000-firebase-dtina4-1747218541587.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  ],
+  "group-40": [
+    {
+    "url": "https://studio.firebase.google.com/dulmanan2-16886300",
+    "terminal": "3000-firebase-dulmanan2-1747206108739.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dulmanan3-77083472",
+    "terminal": "3000-firebase-dulmanan3-1747207588421.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dulmanan4-47530933",
+    "terminal": "3000-firebase-dulmanan4-1747218482933.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dulmanan5-12289527",
+    "terminal": "3000-firebase-dulmanan5-1747223515591.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dulmanan6-91996655",
+    "terminal": "3000-firebase-dulmanan6-1747231388277.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dulmanan7-22206020",
+    "terminal": "3000-firebase-dulmanan7-1747282407820.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dulmanan8-83075841",
+    "terminal": "3000-firebase-dulmanan8-1747282435129.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/dulmanan1-89604918",
+    "terminal": "3000-firebase-dulmanan1-1747201381260.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  
+  ],
+  "group-41": [
+  
+    {
+    "url": "https://studio.firebase.google.com/ekamaryan1-29169268",
+    "terminal": "3000-firebase-ekamaryan1-1747201366517.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekamaryan3-26489861",
+    "terminal": "3000-firebase-ekamaryan3-1747212763504.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekamaryan4-19509578",
+    "terminal": "3000-firebase-ekamaryan4-1747218428068.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekamaryan5-35883052",
+    "terminal": "3000-firebase-ekamaryan5-1747223458223.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekamaryan6-00366244",
+    "terminal": "3000-firebase-ekamaryan6-1747231316427.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekamaryan7-30457500",
+    "terminal": "3000-firebase-ekamaryan7-1747282814706.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekamaryan8-01141882",
+    "terminal": "3000-firebase-ekamaryan8-1747282815732.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekamaryan2-90546748",
+    "terminal": "3000-firebase-ekamaryan2-1747206107612.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  ],
+  "group-42": [
+  
+    {
+    "url": "https://studio.firebase.google.com/ekotriyan1-62422928",
+    "terminal": "3000-firebase-ekotriyan1-1747201359042.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekotriyan2-21711875",
+    "terminal": "3000-firebase-ekotriyan2-1747206105754.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekotriyan3-32743768",
+    "terminal": "3000-firebase-ekotriyan3-1747212760827.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekotriyan4-54670335",
+    "terminal": "3000-firebase-ekotriyan4-1747218371272.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekotriyan5-35198308",
+    "terminal": "3000-firebase-ekotriyan5-1747223398663.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekotriyan6-54630579",
+    "terminal": "3000-firebase-ekotriyan6-1747231217322.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekotriyan7-96361154",
+    "terminal": "3000-firebase-ekotriyan7-1747283200295.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/ekotriyan8-44241910",
+    "terminal": "3000-firebase-ekotriyan8-1747283216700.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  ],
+  "group-43": [
+  
+    {
+    "url": "https://studio.firebase.google.com/empalmangiyan1-16194016",
+    "terminal": "3000-firebase-empalmangiyan1-1747201343551.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/empalmangiyan2-10241167",
+    "terminal": "3000-firebase-empalmangiyan2-1747206080699.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/empalmangiyan3-43063412",
+    "terminal": "3000-firebase-empalmangiyan3-1747212759256.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/empalmangiyan4-47946028",
+    "terminal": "3000-firebase-empalmangiyan4-1747218314377.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/empalmangiyan5-17028134",
+    "terminal": "3000-firebase-empalmangiyan5-1747223338960.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/empalmangiyan6-94145353",
+    "terminal": "3000-firebase-empalmangiyan6-1747230819737.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/empalmangiyan7-38586766",
+    "terminal": "3000-firebase-empalmangiyan7-1747283621803.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/empalmangiyan8-83313203",
+    "terminal": "3000-firebase-empalmangiyan8-1747283623946.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  
+  ],
+  "group-44": [
+  
+    {
+    "url": "https://studio.firebase.google.com/endang2-74469379",
+    "terminal": "3000-firebase-endang2-1747205994167.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/endang4-76146232",
+    "terminal": "3000-firebase-endang4-1747218256984.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/endang5-62064128",
+    "terminal": "3000-firebase-endang5-1747223278792.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/endang6-62010790",
+    "terminal": "3000-firebase-endang6-1747230550423.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/endang7-35603488",
+    "terminal": "3000-firebase-endang7-1747284073606.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/endang8-83207548",
+    "terminal": "3000-firebase-endang8-1747284074332.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/endang1-86491407",
+    "terminal": "3000-firebase-endang1-1747201335808.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/endang3-31629996",
+    "terminal": "3000-firebase-endang3-1747212758131.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  
+  ],
+  "group-45": [
+  
+  
+    {
+    "url": "https://studio.firebase.google.com/erikokampang2-50129519",
+    "terminal": "3000-firebase-erikokampang2-1747205944716.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikokampang3-97338541",
+    "terminal": "3000-firebase-erikokampang3-1747212756940.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikokampang4-08469673",
+    "terminal": "3000-firebase-erikokampang4-1747218200806.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikokampang5-46214868",
+    "terminal": "3000-firebase-erikokampang5-1747223218876.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikokampang6-62947007",
+    "terminal": "3000-firebase-erikokampang6-1747230478874.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikokampang7-26146555",
+    "terminal": "3000-firebase-erikokampang7-1747284463320.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikokampang8-16542724",
+    "terminal": "3000-firebase-erikokampang8-1747284473700.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikokampang1-29665362",
+    "terminal": "3000-firebase-erikokampang1-1747201328006.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  ],
+  "group-46": [
+  
+  {
+    "url": "https://studio.firebase.google.com/erikoketekdubai3-48647283",
+    "terminal": "3000-firebase-erikoketekdubai3-1747212753520.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikoketekdubai4-08263118",
+    "terminal": "3000-firebase-erikoketekdubai4-1747218143854.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikoketekdubai5-15652989",
+    "terminal": "3000-firebase-erikoketekdubai5-1747223160534.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikoketekdubai6-57260729",
+    "terminal": "3000-firebase-erikoketekdubai6-1747230406911.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikoketekdubai7-56817111",
+    "terminal": "3000-firebase-erikoketekdubai7-1747284868570.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikoketekdubai8-07788838",
+    "terminal": "3000-firebase-erikoketekdubai8-1747284857994.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikoketekdubai1-11347394",
+    "terminal": "3000-firebase-erikoketekdubai1-1747201318927.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikoketekdubai2-24807954",
+    "terminal": "3000-firebase-erikoketekdubai2-1747205895974.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  }  
+  
+  
+  
+  
+  
+  
+  ],
+  "group-47": [
+  
+  
+  
+    {
+    "url": "https://studio.firebase.google.com/erikomek3-66044475",
+    "terminal": "3000-firebase-erikomek3-1747212751643.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomek4-87394351",
+    "terminal": "3000-firebase-erikomek4-1747218088281.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomek5-84995411",
+    "terminal": "3000-firebase-erikomek5-1747223102972.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomek6-32615521",
+    "terminal": "3000-firebase-erikomek6-1747230336049.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomek7-57107877",
+    "terminal": "3000-firebase-erikomek7-1747285195883.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomek8-57819234",
+    "terminal": "3000-firebase-erikomek8-1747285201635.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomek1-94751129",
+    "terminal": "3000-firebase-erikomek1-1747201310470.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomek2-58537688",
+    "terminal": "3000-firebase-erikomek2-1747205846868.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  ],
+  "group-48": [
+  
+  
+    {
+    "url": "https://studio.firebase.google.com/erikomonytet3-49228347",
+    "terminal": "3000-firebase-erikomonytet3-1747212690456.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomonytet4-93505079",
+    "terminal": "3000-firebase-erikomonytet4-1747218033471.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomonytet5-03626619",
+    "terminal": "3000-firebase-erikomonytet5-1747223046822.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomonytet6-35491011",
+    "terminal": "3000-firebase-erikomonytet6-1747230265778.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomonytet7-24711487",
+    "terminal": "3000-firebase-erikomonytet7-1747285587338.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomonytet8-52271949",
+    "terminal": "3000-firebase-erikomonytet8-1747285598829.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomonytet1-02942886",
+    "terminal": "3000-firebase-erikomonytet1-1747201301209.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikomonytet2-27160942",
+    "terminal": "3000-firebase-erikomonytet2-1747205797619.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+  }
+  
+  
+  
+  
+  
+  
+  ],
+  "group-49": [
+  
+    {
+    "url": "https://studio.firebase.google.com/erikosyantik3-65747963",
+    "terminal": "3000-firebase-erikosyantik3-1747212688158.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikosyantik4-98195700",
+    "terminal": "3000-firebase-erikosyantik4-1747217976781.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikosyantik5-82077175",
+    "terminal": "3000-firebase-erikosyantik5-1747222991598.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikosyantik6-67272499",
+    "terminal": "3000-firebase-erikosyantik6-1747230194293.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikosyantik7-08258165",
+    "terminal": "3000-firebase-erikosyantik7-1747285982422.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikosyantik8-53857935",
+    "terminal": "3000-firebase-erikosyantik8-1747285989358.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erikosyantik1-38863119",
+    "terminal": "3000-firebase-erikosyantik1-1747201292531.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/2-30345049",
+    "terminal": "3000-firebase-2-1748090053463.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+  }
+  
+  ],
+  "group-50": [
+    {
+    "url": "https://studio.firebase.google.com/erolandimanata4-60569480",
+    "terminal": "3000-firebase-erolandimanata4-1747217920001.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erolandimanata5-57807642",
+    "terminal": "3000-firebase-erolandimanata5-1747222935568.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erolandimanata6-90679773",
+    "terminal": "3000-firebase-erolandimanata6-1747230122864.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erolandimanata7-45394660",
+    "terminal": "3000-firebase-erolandimanata7-1747286901241.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erolandimanata8-00437824",
+    "terminal": "3000-firebase-erolandimanata8-1747286910620.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erolandimanata1-64153629",
+    "terminal": "3000-firebase-erolandimanata1-1747201283143.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erolandimanata2-04353727",
+    "terminal": "3000-firebase-erolandimanata2-1747205698627.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+  },
+  {
+    "url": "https://studio.firebase.google.com/erolandimanata3-03972033",
+    "terminal": "3000-firebase-erolandimanata3-1747212685386.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+  }
+  
+  ],
+  "group-51": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-00967074",
+      "terminal": "3000-firebase-taskistosgit-1748876099421.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-05573353",
+      "terminal": "3000-firebase-taskistosgit-1748876188597.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-83392226",
+      "terminal": "3000-firebase-taskistosgit-1748876288217.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+    }
+  ],
+  "group-52": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-77884726",
+      "terminal": "3000-firebase-taskistosgit-1748876497005.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-99703932",
+      "terminal": "3000-firebase-taskistosgit-1748876581565.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-67350854",
+      "terminal": "3000-firebase-taskistosgit-1748877435173.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+    }
+  ],
+  "group-53": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-27879600",
+      "terminal": "3000-firebase-taskistosgit-1748877628205.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-80137614",
+      "terminal": "3000-firebase-taskistosgit-1748877710018.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-08836165",
+      "terminal": "3000-firebase-taskistosgit-1748877826778.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    }
+  ],
+  "group-54": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-21939586",
+      "terminal": "3000-firebase-taskistosgit-1748877958800.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-18331294",
+      "terminal": "3000-firebase-taskistosgit-1748878039083.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-94604605",
+      "terminal": "3000-firebase-taskistosgit-1748878107781.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+    }
+  ],
+  "group-55": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-69933232",
+      "terminal": "3000-firebase-taskistosgit-1748878273070.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-04117289",
+      "terminal": "3000-firebase-taskistosgit-1748878346351.cluster-htdgsbmflbdmov5xrjithceibm.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-85732787",
+      "terminal": "3000-firebase-taskistosgit-1748878424006.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+    }
+  ],
+  "group-56": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-41777176",
+      "terminal": "3000-firebase-taskistosgit-1750078446490.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-57973490",
+      "terminal": "3000-firebase-taskistosgit-1750078458652.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-80536410",
+      "terminal": "3000-firebase-taskistosgit-1750078461157.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+    }
+  ],
+  "group-57": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-19304616",
+      "terminal": "3000-firebase-taskistosgit-1748879024137.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-00801314",
+      "terminal": "3000-firebase-taskistosgit-1748879135222.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-88251157",
+      "terminal": "3000-firebase-taskistosgit-1748879216454.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+    }
+  ],
+  "group-58": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-90160241",
+      "terminal": "3000-firebase-taskistosgit-1748879674376.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-86207625",
+      "terminal": "3000-firebase-taskistosgit-1748879768166.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-08077540",
+      "terminal": "3000-firebase-taskistosgit-1748879884289.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+    }
+  ],
+  "group-59": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-84633586",
+      "terminal": "3000-firebase-taskistosgit-1748880082886.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-10190982",
+      "terminal": "3000-firebase-taskistosgit-1748880091502.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-33679240",
+      "terminal": "3000-firebase-taskistosgit-1748880097846.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+    }
+  ],
+  "group-60": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-99935293",
+      "terminal": "3000-firebase-taskistosgit-1748880278668.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-42689954",
+      "terminal": "3000-firebase-taskistosgit-1748880291855.cluster-ejd22kqny5htuv5dfowoyipt52.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-55160403",
+      "terminal": "3000-firebase-taskistosgit-1748880295742.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+    }
+  ],
+  "group-61": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-02814754",
+      "terminal": "3000-firebase-taskistosgit-1748880455261.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-09968207",
+      "terminal": "3000-firebase-taskistosgit-1748880484802.cluster-w5vd22whf5gmav2vgkomwtc4go.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-98303392",
+      "terminal": "3000-firebase-taskistosgit-1748880497131.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+    }
+  ],
+  "group-62": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-92714367",
+      "terminal": "3000-firebase-taskistosgit-1748880680171.cluster-sumfw3zmzzhzkx4mpvz3ogth4y.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-51389631",
+      "terminal": "3000-firebase-taskistosgit-1748880698118.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-26292035",
+      "terminal": "3000-firebase-taskistosgit-1748880694777.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+    }
+  ],
+  "group-63": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-87640611",
+      "terminal": "3000-firebase-taskistosgit-1750078631523.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-50055187",
+      "terminal": "3000-firebase-taskistosgit-1750078660332.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-38217173",
+      "terminal": "3000-firebase-taskistosgit-1750078663210.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev"
+    }
+  ],
+"group-64": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-84390067",
+      "terminal": "3000-firebase-taskistosgit-1749875789379.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-67362293",
+      "terminal": "3000-firebase-taskistosgit-1749875770046.cluster-ubrd2huk7jh6otbgyei4h62ope.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-74371780",
+      "terminal": "3000-firebase-taskistosgit-1749875779816.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev"
+    }
+  ],
+
+  "group-65": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-09036687",
+      "terminal": "3000-firebase-taskistosgit-1748882047324.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-52537650",
+      "terminal": "3000-firebase-taskistosgit-1748882055369.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-50124679",
+      "terminal": "3000-firebase-taskistosgit-1748882058694.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev"
+    }
+  ],
+ "group-66": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-07315152",
+      "terminal": "3000-firebase-taskistosgit-1749876278387.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-13292808",
+      "terminal": "3000-firebase-taskistosgit-1749876259014.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-71164219",
+      "terminal": "3000-firebase-taskistosgit-1749876268755.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev"
+    }
+  ],
+  "group-67": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-18243453",
+      "terminal": "3000-firebase-taskistosgit-1749876778174.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-99593703",
+      "terminal": "3000-firebase-taskistosgit-1749876758328.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-61505772",
+      "terminal": "3000-firebase-taskistosgit-1749876768492.cluster-iktsryn7xnhpexlu6255bftka4.cloudworkstations.dev"
+    }
+  ],
+  "group-68": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12281200",
+      "terminal": "3000-firebase-taskistosgit-1749877235823.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-12719679",
+      "terminal": "3000-firebase-taskistosgit-1749877215293.cluster-ikxjzjhlifcwuroomfkjrx437g.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-70517588",
+      "terminal": "3000-firebase-taskistosgit-1749877225522.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+    }
+  ],
+  "group-69": [
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-66997397",
+      "terminal": "3000-firebase-taskistosgit-1748883763764.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-61551269",
+      "terminal": "3000-firebase-taskistosgit-1748883771067.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev"
+    },
+    {
+      "url": "https://studio.firebase.google.com/taskistosgit-52376643",
+      "terminal": "3000-firebase-taskistosgit-1748883774178.cluster-fkltigo73ncaixtmokrzxhwsfc.cloudworkstations.dev"
+    }
+  ],
+
+   "group-70": [
+{
+  "url": "https://studio.firebase.google.com/taskistosgit-96509736",
+  "terminal": "3000-firebase-taskistosgit-1748275968696.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+},
+{
+  "url": "https://studio.firebase.google.com/taskistosgit-47392483",
+  "terminal": "3000-firebase-taskistosgit-1748276069462.cluster-73qgvk7hjjadkrjeyexca5ivva.cloudworkstations.dev"
+},
+{
+  "url": "https://studio.firebase.google.com/taskistosgit-60249996",
+  "terminal": "3000-firebase-taskistosgit-1748276174399.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+},
+{
+  "url": "https://studio.firebase.google.com/taskistosgit-84427898",
+  "terminal": "3000-firebase-taskistosgit-1748276305886.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+},
+{
+  "url": "https://studio.firebase.google.com/taskistosgit-47171501",
+  "terminal": "3000-firebase-taskistosgit-1748276432507.cluster-zkm2jrwbnbd4awuedc2alqxrpk.cloudworkstations.dev"
+},
+{
+  "url": "https://studio.firebase.google.com/taskistosgit-32437976",
+  "terminal": "3000-firebase-taskistosgit-1748276562118.cluster-bg6uurscprhn6qxr6xwtrhvkf6.cloudworkstations.dev"
+},
+{
+  "url": "https://studio.firebase.google.com/taskistosgit-70364962",
+  "terminal": "3000-firebase-taskistosgit-1748276691957.cluster-fdkw7vjj7bgguspe3fbbc25tra.cloudworkstations.dev"
+},
+{
+  "url": "https://studio.firebase.google.com/taskistosgit-73620873",
+  "terminal": "3000-firebase-taskistosgit-1748276820530.cluster-nzwlpk54dvagsxetkvxzbvslyi.cloudworkstations.dev"
+}
+  ]
+}
